@@ -4,15 +4,15 @@ La aplicación “Procesador de CFDI” exporta toda la información del XML del
 Disponible para Windows, Mac y Linux
 
 Requerimientos:
-A) Java 8 Instalado
+ Java 8 Instalado
 
 Soporte:
-A) 3 Meses
+ 3 Meses
 
 Licencia:
-A) La licencia es válida de por vida.
-B) La licencia (número de serie) es válida únicamente en una computadora. La ejecución de la aplicación en una computadora diferente requiere nueva licencia (número de serie).
-C) El código de licencia (número de serie) es otorgado después de la compra.
+ La licencia es válida de por vida.
+ La licencia (número de serie) es válida únicamente en una computadora. La ejecución de la aplicación en una computadora diferente requiere nueva licencia (número de serie).
+ El código de licencia (número de serie) es otorgado después de la compra.
 
 El precio por licencia es de $599 MXN.
 Al comprar 5 licencias, tendrá un precio especial de $1199 MXN
