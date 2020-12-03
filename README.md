@@ -14,8 +14,8 @@ Licencia:
  La licencia (número de serie) es válida únicamente en una computadora. La ejecución de la aplicación en una computadora diferente requiere nueva licencia (número de serie).
  El código de licencia (número de serie) es otorgado después de la compra.
 
-El precio por licencia es de $299 MXN.
-Al comprar 5 licencias, tendrá un precio especial de $999 MXN
+El precio por licencia es de $149 MXN.
+Al comprar 5 licencias, tendrá un precio especial de $249 MXN
 
 Contacto para obtener licencia: avilabasulto@gmail.com
 
